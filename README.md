@@ -143,3 +143,17 @@ Through this project, we demonstrated that:
 - Digital Image Processing principles
 - Filter design methodologies
 - OpenCV and NumPy documentation
+
+## Group List
+
+| No. | Student Name | Student ID |
+|-----|-------------|------------|
+| 1   |             |            |
+| 2   |             |            |
+| 3   |             |            |
+| 4   |             |            |
+| 5   |             |            |
+| 6   |             |            |
+| 7   |             |            |
+| 8   |             |            |
+| 9   |             |            |
