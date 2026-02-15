@@ -159,7 +159,7 @@ Through this project, we demonstrated that:
 | 2   | Eugene Baidoo        | 11310591   |
 | 3   | Bernard Mensah Afful | 11253585   |
 | 4   | Addo Gabriel         | 11118661   |
-| 5   |                      |            |
+| 5   | Oswald Amoah         | 11046928   |
 | 6   |                      |            |
 | 7   |                      |            |
 | 8   |                      |            |
