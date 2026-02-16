@@ -151,7 +151,8 @@ Through this project, we demonstrated that:
 - Filter design methodologies
 - OpenCV and NumPy documentation
 
-## Acknowledgment 
+## Acknowledgment
+
 This project was developed as part of the Image Processing coursework.
 
 ## Group List
